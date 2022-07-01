@@ -68,23 +68,26 @@
 }
 
 .wrapper {
-  max-width: calc(80% - (30px));
+  max-width: 80%;
   margin-right: auto;
   margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px;
+  // padding-right: 15px;
+  // padding-left: 15px;
 }
 @media screen and (min-width: 75%) {
   .wrapper {
     max-width: calc(75% - (30px * 2));
-    padding-right: 30px;
-    padding-left: 30px;
   }
 }
 
 @media (min-width: 600px) {
   .card-container {
     grid-template-columns: repeat(auto-fit, minmax(33.33%, 1fr));
+  }
+  .wrapper {
+    max-width: calc(80% - (30px));
+    padding-right: 15px;
+    padding-left: 15px;
   }
 }
 
