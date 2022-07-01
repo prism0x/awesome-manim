@@ -32,3 +32,7 @@ The feed is currently strictly chronological, but we are planning to create a sm
 ### Feedback
 
 If you have a cool idea for this website, [create an issue here](https://github.com/ManimCommunity/awesome-manim/issues) and tag it as a feature request.
+
+### Hiring a Manim Developer for your own project
+
+If you would like to hire a Manim Developer to produce the animations for your educational content, visit [manim.dev](https://manim.dev/) to find a list of freelancers available for hiring.
